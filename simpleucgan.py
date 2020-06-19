@@ -1,3 +1,5 @@
+#simple Unconditional Generative Adversarial Network trained on MNIST Fashion dataset
+
 import tensorflow as tf
 import numpy as np
 
